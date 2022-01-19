@@ -1,0 +1,23 @@
+
+G
+includes/navigation.php,3\a\3a21f5285eb7b97d0f7b0ebb4458da4c6b234f1b
+K
+admin/includes/side_nav.php,c\6\c64e1e99941860c0c9bbe11117bdcab4314facae
+9
+	index.php,b\b\bb6499b8e938f92a3695fff1afe57edea4b9efb7
+9
+	photo.php,e\5\e547bb68a4b7983095cb3a643469fd8bd2e182ce
+?
+admin/index.php,f\2\f2b5f437742223d88f00a5ab44f5e97a37359212
+@
+admin/photos.php,8\2\82d37b4d91a63a72f4749058730cc563aa2e1780
+B
+admin/comments.php,a\6\a6669691391855351fa29c4d20fac230abd2174d
+I
+admin/includes/footer.php,3\7\37ca67d1fdabf897fff2c468ae421669649af7b7
+P
+ admin/includes/admin_content.php,7\9\79be651ade7f94b69b543483879dc60e44933282
+J
+admin/includes/top_nav.php,9\3\936580e28cc9261876fcc4836f353966039c7274
+I
+admin/includes/config.php,8\e\8e78886d11b78958b85de76103f58c6ed1f204ee
